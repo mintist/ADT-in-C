@@ -1,0 +1,46 @@
+[Global]
+CurrentProject=ADT_original\ADT_original.vpj
+[ActiveConfig]
+ADT_original\ADT_original.vpj=,Debug|Win32
+[ProjectDates]
+ADT_original\ADT_original.vcproj=20130905121958171
+[TreeExpansion2]
+-@ ADT_original\ADT_original.vcproj
+  + ADT源文件
+  + ADT头文件
+  - main
+  + Sort源文件
+  + Sort头文件
+  + Search头文件
+  - Search源文件
+scroll:0
+[State]
+SCREEN: 1600 900 200 62 1210 756 0 0 M 0 0 0 0 1322 578 0
+CWD: ADT_original
+BUFFER: BN="ADT_original\pqueue.c"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.304 CL=1 LE=0 CX=1 CY=14 WI=5 BI=4 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="ADT_original\pqueue.h"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.361 CL=33 LE=0 CX=33 CY=16 WI=5 BI=17 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="ADT_original\test_heap.c"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=52625505 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.24 CL=17 LE=0 CX=17 CY=2 WI=5 BI=18 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 1003 394 0 0 N  WF=0 WT=2 ",,,"
+BUFFER: BN="ADT_original\pqueue.c"
+VIEW: LN=.304 CL=1 LE=0 CX=1 CY=14 WI=157 BI=4 HT=0 HN=0 HF=0 HC=4
+WINDOW: 8 30 1005 396 0 0 N  WF=0 WT=4 ",,,"
+BUFFER: BN="ADT_original\pqueue.h"
+VIEW: LN=.361 CL=33 LE=0 CX=33 CY=16 WI=159 BI=17 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 1323 579 0 0 M  WF=0 WT=3 ",,,"
+BUFFER: BN="ADT_original\test_heap.c"
+VIEW: LN=.631 CL=6 LE=0 CX=6 CY=19 WI=161 BI=18 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 6
+ADT_original\pqueue.c
+ADT_original\heap.h
+ADT_original\heap.c
+ADT_original\pqueue.h
+ADT_original\main.c
+ADT_original\test_heap.c
+TBCLASS: 0 0
+DEBUG2: 0
